@@ -8,6 +8,12 @@
 	<name>simple-app</name>
 	<url>http://maven.apache.org</url>
 	
+    <server>
+      <id>nexusinstance</id>
+      <username>admin</username>
+      <password>Admin@12345678</password>
+    </server>
+	
 	<dependencies>
 
 		
