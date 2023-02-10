@@ -125,7 +125,7 @@ i-->
     <server>
       <id>nexus</id>
       <username>admin</username>
-      <password>admin123</password>
+      <password>Admin@12345678</password>
     </server>
 
 
