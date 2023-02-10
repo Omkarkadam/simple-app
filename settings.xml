@@ -123,7 +123,7 @@ i-->
     </server>
     -->
     <server>
-      <id>nexusinsance</id>
+      <id>nexusinstance</id>
       <username>admin</username>
       <password>Admin@12345678</password>
     </server>
